@@ -13,7 +13,7 @@ The ABM serves as a tool to simulate and compare the functioning of the social s
 
 ## Usage
 - Download Netlogo V. 6.3.0
-- Click the Code-Button
+- Click on the Code-Button
 - Download ZIP
 
 ## License
