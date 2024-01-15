@@ -14,8 +14,8 @@ The ABM serves as a tool to simulate and compare the functioning of the social s
 ## Usage
 - Download Netlogo V. 6.3.0
 - Click the Code-Button
-- Download .zip
+- Download ZIP
 
 ## License
 This project is licensed unter the MIT License.
-Feel free to reach out for any questions or collaborations. Thank you for your interest in the ABM Germany and Spain project!
+Feel free to reach out for any questions or collaborations. Thank you for your interest in the ABM!
